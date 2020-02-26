@@ -7,3 +7,6 @@ Staging
 Repository
 
 # Commands for moving through states of Git
+git status
+git add .
+git commit -m "Add commands."
